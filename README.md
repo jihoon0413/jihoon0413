@@ -4,7 +4,7 @@
 
 
 <div align= "center">
-  <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Profile 🧑‍💻 </h2> <br> 
+  <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Profile ✨ </h2> <br> 
   <div align= "center"> 
     <a href=https://velog.io/@wlgns0413/posts> 
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@wlgns0413/posts"> 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)">
   </div> 
 
-  <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tools 🧑‍💻 </h2> <br>   
+  <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tools 🔨 </h2> <br>   
   <div align= "center">  
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -47,7 +47,7 @@
 </div>
     
   <div align= "center"> 
-      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
+      <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgnstls0413&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon0413&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"/><br>
         <img src="https://github-readme-stats.vercel.app/api?username=jihoon0413&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"/> 
