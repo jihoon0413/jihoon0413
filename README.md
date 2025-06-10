@@ -9,7 +9,7 @@
     <a href=https://velog.io/@wlgns0413/posts> 
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@wlgns0413/posts"> 
     </a>
-    <a href=https://www.notion.so/a33cf4699d9141289b4e12f0fac2895b> 
+    <a href=https://www.notion.so/JI-Hoon-Portfoilo-20d256fc730b80448240c98ad5f30c84> 
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/a33cf4699d9141289b4e12f0fac2895b"> 
     </a>
   </div>  <br> 
